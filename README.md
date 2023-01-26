@@ -26,6 +26,8 @@ use the command pip install -r requirements.txt to install all the necessary pac
 
     usage: psyberstatusscanner.py [-h] -dl DOMAIN_LIST [-t TIMEOUT] [-rl NUM_THREADS]
     
+    Example : python psyberstatusscanner.py -dl domain_list.txt -t 5 -rl 20
+    
     Check status codes for a list of domains
     
     options:
@@ -38,14 +40,16 @@ use the command pip install -r requirements.txt to install all the necessary pac
                             Number of threads for the scanning
     
        
-    
-
+  
 -dl : specify the input file containing the list of domains
 -t :   specify the Timeout for the HTTP request
 ## Acknowledgements
 - Jr_hackerman for creating the tool
 - Jr_hackerman for contributing to the development of the tool
 - Jr_hackerman for providing support for the tool
+
+## Screenshot
+[![psyberstatus scanner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqzUGHVvy8nHd9VSfpi9ciVT5bK-YKg-wXC0D1r-qJ51_vaqT5tPWv43xuPVFowCoIQTIQXO5wD50zwG0T60WFgZv07T943iOg7Zf1DRSPW6TFQpQVjdtTN0AY84GOoq0sLbxFEW5OZPIqEBfEv4I5EoSxX-It3X6mDU9dY5oKWltxYzKcBD4OQsVWVA/w640-h304/WhatsApp%20Image%202023-01-26%20at%2010.17.08%20PM.jpeg "psyberstatus scanner")](http://psyberbook.com "psyberstatus scanner")
 
 ## Authors
 - Jr_hackerman
