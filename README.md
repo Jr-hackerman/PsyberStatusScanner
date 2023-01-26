@@ -1,5 +1,5 @@
 # PsyberStatusScanner
-A tool for finding the Web status and redirection location of a massive list of domains.
+A tool for finding the status and redirection location of a massive list of domains and sub-domains.
 
 ### Introduction
 
