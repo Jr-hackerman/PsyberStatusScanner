@@ -24,16 +24,20 @@ use the command pip install -r requirements.txt to install all the necessary pac
 
 =============
 
-    usage: psberstatusscanner.py [-h] -dl DOMAINS_LIST [-t TIMEOUT]
+    usage: psyberstatusscanner.py [-h] -dl DOMAIN_LIST [-t TIMEOUT] [-rl NUM_THREADS]
     
-    Check status codes of domains from a file
+    Check status codes for a list of domains
     
     options:
       -h, --help            show this help message and exit
-      -dl DOMAINS_LIST, --domains-list DOMAINS_LIST
-                            File containing the list of domains
+      -dl DOMAIN_LIST, --domain_list DOMAIN_LIST
+                            File path of the list of domains
       -t TIMEOUT, --timeout TIMEOUT
-                            Timeout for the HTTP request
+                            Timeout for the HTTP requests
+      -rl NUM_THREADS, --num_threads NUM_THREADS
+                            Number of threads for the scanning
+    
+       
     
 
 -dl : specify the input file containing the list of domains
