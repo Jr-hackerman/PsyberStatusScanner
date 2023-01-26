@@ -61,5 +61,5 @@ Please use this tool responsibly and in compliance with all relevant laws and re
 
 =========================================================
 ####  Fuel your hacking with a hot cup of coffee, buy me one!
-``<a href="https://www.buymeacoffee.com/PsyberBook" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/PsyberBook" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
