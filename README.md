@@ -24,7 +24,7 @@ use the command pip install -r requirements.txt to install all the necessary pac
 
 =============
 
-    usage: whatthestatus.py [-h] -dl DOMAINS_LIST [-t TIMEOUT]
+    usage: psberstatusscanner.py [-h] -dl DOMAINS_LIST [-t TIMEOUT]
     
     Check status codes of domains from a file
     
