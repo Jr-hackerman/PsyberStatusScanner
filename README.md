@@ -17,9 +17,12 @@ Checkout [Psyberbook.com](https://www.psyberbook.com/ "Psyberbook.com") for our 
 - argparse library
 - PrettyTable library
 
-## Usage
-=============
 
+## Usage
+
+use the command pip install -r requirements.txt to install all the necessary packages and their versions.
+
+=============
 
     usage: whatthestatus.py [-h] -dl DOMAINS_LIST [-t TIMEOUT]
     
